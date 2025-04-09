@@ -5,4 +5,5 @@ body{
 .teste{
     font-family: 'Courier New', Courier, monospace;
     border: 1px solid blue;
+    margin: 1px;
 }
